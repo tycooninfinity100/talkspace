@@ -13,12 +13,14 @@ a {
   font-size:30px;
 }
 
-.backhome {
+#backhome {
   color:red;
-  font-size:30px;
+  font-size:25px;
   position: fixed;
-  right:5%;
-  top:0%;
+  left:5%;
+  top:2%;
+  font-weight:bold;
+  font-family:monospace;
 }
 
 
